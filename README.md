@@ -42,7 +42,6 @@ And more...
   <tr>
     <td>
 	<a href="https://youtu.be/yGl89Y4-QIc">
-  		<img src="http://i3.ytimg.com/vi/yGl89Y4-QIc/maxresdefault.jpg">
 	</a>
 	</td>
     <td>
