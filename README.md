@@ -1,6 +1,6 @@
-###  👋 Hello everybody!!
+##  👋 Hello everybody!!
 
-## iOS Junior developer
+### iOS Junior developer
 
 Mi nombre es Miguel Alarcón Moreno y soy iOS Junior Mobile Development. 
 <br/>
