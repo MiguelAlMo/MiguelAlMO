@@ -96,6 +96,6 @@ And more...
 
 ## Contact me:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![MyPublicInbox](https://img.shields.io/badge/MyPhoneNumber-655054615-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/info@kilinmag.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:info@kilinmag)
