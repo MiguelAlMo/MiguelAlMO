@@ -41,8 +41,8 @@ And more...
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	<a href="https://youtu.be/yGl89Y4-QIc">
+  		<img src="http://i3.ytimg.com/vi/yGl89Y4-QIc/maxresdefault.jpg">
 	</a>
 	</td>
     <td>
