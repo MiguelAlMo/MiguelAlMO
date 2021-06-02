@@ -1,4 +1,5 @@
-![github presentación](https://user-images.githubusercontent.com/77109045/120455734-4e87d400-c395-11eb-96a8-e6f82cc3b7ad.jpg)
+![gitportadaOk](https://user-images.githubusercontent.com/77109045/120461342-3797b080-c39a-11eb-9c8a-3adb1f1019a8.jpg)
+
 ### Mi nombre es Miguel Alarcón Moreno y soy iOS Junior Mobile Development 👋🏼
 <br/>
 Busco crecer profesionalmente como Mobile Developer tanto en iOS ( Swift ) como en Android ( Kotlin ) y adquirir conocimientos sobre nuevos lenguajes y tecnologías que me mantengan actualizado ante las exigencias del mercado. <br/>
