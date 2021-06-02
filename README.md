@@ -2,6 +2,9 @@
 
 ### iOS Junior developer
 
+![github presentación](https://user-images.githubusercontent.com/77109045/120455734-4e87d400-c395-11eb-96a8-e6f82cc3b7ad.jpg)
+
+
 ![](https://raw.githubusercontent.com/MiguelAlMo/MiguelAlMO/blob/main/portadagit.png)
 
 Mi nombre es Miguel Alarcón Moreno y soy iOS Junior Mobile Development. 
