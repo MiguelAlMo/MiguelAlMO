@@ -31,7 +31,7 @@ And more...
 [![Instagram](https://img.shields.io/badge/Instagram-@kilinmag-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/kilinmag)
 [![Facebook](https://img.shields.io/badge/Facebook-@KilinMag-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/KilinMag)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Alarcón-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-alarcón-moreno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Alarcón-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-alarcon-moreno)
 
 
 ## Some YouTube videos:
